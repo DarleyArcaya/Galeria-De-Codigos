@@ -1,3 +1,3 @@
-# Galeria-De-Codigos
+# Galería-De-Códigos
 
-Una galeria pensada en subir codigos diversos de cualquier lenguaje de programacion.
+Una galería pensada en subir códigos diversos de cualquier lenguaje de programación.
